@@ -1,0 +1,2 @@
+C:\Users\dong9\source\repos\BeatProject\x64\Debug\BeatProject.exe
+E:\beatc++\BeatProject\x64\Debug\BeatProject.exe
